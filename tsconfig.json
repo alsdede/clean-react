@@ -18,8 +18,7 @@
     "allowSyntheticDefaultImports": true,
     "strict": true,
     "forceConsistentCasingInFileNames": true,
-    "noEmit": true,
-    "isolatedModules": true
+    "noEmit": true,    
   },
   "include": [
     "src"
